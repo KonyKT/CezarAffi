@@ -45,6 +45,7 @@ def Szyfrowanie(mode):
     try:
         f=open("plain.txt", "r")
         plain = f.read()
+        plain = normalize(plain)
         plain = list(plain)
         print(plain)
         f=open("key.txt", "r")
@@ -149,7 +150,7 @@ def KryptozJawnym(mode):
         print("Nie mozna znalezc potrzebnych plikow")
         return 0
     if mode == 1:
-        key = (alphabetdict[plain[0]] - alphabetdict[klucz])%26
+        key = (alphabetdict[plain[0].lower()] - alphabetdict[klucz.lower()])%26
         result = decrypt(key,plain)
         wynik = "".join(result)
         f=open("decrypt.txt", "w+")
@@ -166,10 +167,10 @@ def KryptozJawnym(mode):
         keyB = plain[1]
         print(keyA,keyB,CkeyA,CkeyB)
 
-        zs1 = alphabetdict[keyA]
-        zs2 = alphabetdict[keyB]
-        zo1 = alphabetdict[CkeyA]
-        zo2 = alphabetdict[CkeyB]
+        zs1 = alphabetdict[keyA.lower()]
+        zs2 = alphabetdict[keyB.lower()]
+        zo1 = alphabetdict[CkeyA.lower()]
+        zo2 = alphabetdict[CkeyB.lower()]
         # temp = (keyAint + 26 - keyBint)
         # ctemp = (CkeyAint + 26 - CkeyBint)
         resA = ((zs1 + 26 - zs2) * revmod(zo1 + 26 - zo2, 26)) % 26;

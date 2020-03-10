@@ -25,10 +25,6 @@ def checkArgs():
 
 
 
-
-
-
-
 def Cezar():
     if '-e' in sys.argv:
         Szyfrowanie(1)
@@ -50,6 +46,9 @@ def Afiniczny():
         kryptobezjawnego(2)
 
 if __name__ == '__main__':
+
+    if 'ą'.isalpha():
+        print("jest")
     args = parser.parse_args(sys.argv[1:])
     checkArgs()
     if '-c' in sys.argv:

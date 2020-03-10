@@ -1,3 +1,14 @@
+foregin = ['ą','ę','ż','ź','ć','ń','ś','ł','ó']
+
+def normalize(string):
+    wynik = []
+    for i in string:
+        if i.lower() in foregin:
+            continue
+        else:
+            wynik.append(i)
+    return wynik
+
 def ekstratest(extra):
     extra = list(extra)
     if len(extra) < 2:

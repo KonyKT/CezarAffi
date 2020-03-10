@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76ffe2b3-d490-4f30-a4df-2f66db44d594" name="Default Changelist" comment="" />
+    <list default="true" id="76ffe2b3-d490-4f30-a4df-2f66db44d594" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crypto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decrypt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extra.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/key.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/utility.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YL7DhzGLGVSCqrJLgDo8BgIEVY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,57 +89,57 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1583785633564" />
-    <state width="1140" height="272" key="GridCell.Tab.0.bottom" timestamp="1583785778620">
+    <state width="1140" height="272" key="GridCell.Tab.0.bottom" timestamp="1583848781267">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1583785778620" />
-    <state width="1140" height="272" key="GridCell.Tab.0.center" timestamp="1583785778620">
+    <state width="1140" height="272" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1583848781267" />
+    <state width="1140" height="272" key="GridCell.Tab.0.center" timestamp="1583848781266">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1583785778620" />
-    <state width="1140" height="272" key="GridCell.Tab.0.left" timestamp="1583785778619">
+    <state width="1140" height="272" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1583848781266" />
+    <state width="1140" height="272" key="GridCell.Tab.0.left" timestamp="1583848781266">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1583785778619" />
-    <state width="1140" height="272" key="GridCell.Tab.0.right" timestamp="1583785778620">
+    <state width="1140" height="272" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1583848781266" />
+    <state width="1140" height="272" key="GridCell.Tab.0.right" timestamp="1583848781267">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1583785778620" />
-    <state width="1140" height="272" key="GridCell.Tab.1.bottom" timestamp="1583785778622">
+    <state width="1140" height="272" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1583848781267" />
+    <state width="1140" height="272" key="GridCell.Tab.1.bottom" timestamp="1583848781269">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1583785778622" />
-    <state width="1140" height="272" key="GridCell.Tab.1.center" timestamp="1583785778621">
+    <state width="1140" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1583848781269" />
+    <state width="1140" height="272" key="GridCell.Tab.1.center" timestamp="1583848781269">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1583785778621" />
-    <state width="1140" height="272" key="GridCell.Tab.1.left" timestamp="1583785778621">
+    <state width="1140" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1583848781269" />
+    <state width="1140" height="272" key="GridCell.Tab.1.left" timestamp="1583848781269">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1583785778621" />
-    <state width="1140" height="272" key="GridCell.Tab.1.right" timestamp="1583785778621">
+    <state width="1140" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1583848781268" />
+    <state width="1140" height="272" key="GridCell.Tab.1.right" timestamp="1583848781269">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1140" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1583785778621" />
+    <state width="1140" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1583848781269" />
     <state x="322" y="98" key="SettingsEditor" timestamp="1582710384300">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="322" y="98" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1582710384300" />
-    <state x="489" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1583688463171">
+    <state x="489" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1583871011771">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="489" y="291" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1583688463171" />
-    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1583784719821">
+    <state x="489" y="291" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1583871011771" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1583871901060">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1583784719821" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1583871901060" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/operations.py</url>
-          <line>216</line>
+          <line>217</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
